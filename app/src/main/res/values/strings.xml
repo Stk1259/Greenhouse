@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Greenhouse</string>
+    <string name="authorisation">Authorization</string>
+    <string name="enter_phone">Enter Phone</string>
+    <string name="button_send_SMS">Send SMS</string>
+    <string name="button_send_verification_code">Send code</string>
+    <string name="enter_from_sms">Enter code</string>
+
+    <string name="registration">Registration</string>
+    <string name="name">Your name</string>
+    <string name="user_name">Your username</string>
+    <string name="register">Register</string>
+
+    <string name="error_message_empty">Enter data, please</string>
+    <string name="error_message_no_internet">No internet connection</string>
+    <string name="error_message_not_found">Check data, please</string>
+    <string name="error_message_limit_exceeded">Request limit exceeded</string>
+    <string name="error_unknown">Unknown error</string>
+</resources>
